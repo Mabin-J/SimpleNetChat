@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleChat</string>
+	<string name="server">Server Mode</string>
+    <string name="client">Client Mode</string>
+    <string name="connect">Connect</string>
+    <string name="open">Open</string>
+	<string name="send">Send</string>
+	<string name="ip_address">IP Address: </string>
+	<string name="port">Port: </string>
+	<string name="comm_mode">Mode: </string>
+	<string name="setup">Setup</string>
+	<string name="wait_connection">Wait Connection...</string>
+</resources>
