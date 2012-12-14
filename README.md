@@ -1,4 +1,4 @@
 SimpleNetChat
 =============
 
-Simple Chatting App with TCP/UDP
+Simple Chatting Android App with TCP/UDP
